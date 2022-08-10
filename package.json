@@ -5,6 +5,6 @@
         "lodash": "4.14.0",
         "mkdirp": "0.3.3",
         "next": "11.0.1",
-        "underscore": "^1.8.3"
+        "underscore": "1.8.3"
     }
 }
