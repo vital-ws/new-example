@@ -1,4 +1,12 @@
 {
-  "settingsInheritedFrom": "vital-ws/whitesource-config@main"
-  
+  "settingsInheritedFrom": "vital-ws/whitesource-config@main",
+  "issueSettings": {
+    "minSeverityLevel": "HIGH"
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true,
+      "minVulnerabilitySeverity": "HIGH"
+    }
+  }
 }
