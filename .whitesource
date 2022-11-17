@@ -1,7 +1,7 @@
 {
   "settingsInheritedFrom": "vital-ws/whitesource-config@main",
   "issueSettings": {
-    "minSeverityLevel": "MEDIUM"
+    "minSeverityLevel": "LOW"
   },
   "remediateSettings": {
     "workflowRules": {
