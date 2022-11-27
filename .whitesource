@@ -2,6 +2,7 @@
   "settingsInheritedFrom": "vital-ws/whitesource-config@main",
   "scanSettings": {
     "baseBranches": ["new-config"]
+    
   },
   "issueSettings": {
     "minSeverityLevel": "NONE"
