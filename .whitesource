@@ -6,7 +6,7 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": true,
-        "minVulnerabilityScore": -1
+        "minVulnerabilityScore": a
     }
   }
 }
